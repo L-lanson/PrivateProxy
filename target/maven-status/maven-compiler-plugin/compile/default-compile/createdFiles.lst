@@ -1,0 +1,16 @@
+com\cmb\util\ClassGenerator.class
+com\cmb\util\ByteCodeGenerator$PrimitiveTypeInfo.class
+com\cmb\util\ByteCodeGenerator.class
+com\cmb\util\ByteCodeGenerator$1.class
+com\cmb\util\ByteCodeGenerator$ConstantPool$Entry.class
+com\cmb\test\ISon.class
+com\cmb\util\ByteCodeGenerator$ExceptionTableEntry.class
+com\cmb\test\Test.class
+com\cmb\test\Son.class
+com\cmb\util\ByteCodeGenerator$ConstantPool$IndirectEntry.class
+com\cmb\util\ByteCodeGenerator$ConstantPool$ValueEntry.class
+com\cmb\util\ByteCodeGenerator$ConstantPool.class
+com\cmb\util\ByteCodeGenerator$MethodInfo.class
+com\cmb\util\ByteCodeGenerator$ProxyMethod.class
+com\cmb\test\Parent.class
+com\cmb\util\ByteCodeGenerator$FieldInfo.class
